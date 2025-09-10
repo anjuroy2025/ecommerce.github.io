@@ -1,4 +1,3 @@
-# ecommerce.github.io
 📊 Ecommerce Analytics Dashboard (Power BI)
 
 📌 Project Overview
